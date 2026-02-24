@@ -1,4 +1,4 @@
-# firstAutoclicker
+
 
 ## REQUIREMENTS
 pip install pyautogui keyboard
