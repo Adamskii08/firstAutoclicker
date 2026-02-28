@@ -7,6 +7,6 @@ pip install pyautogui keyboard
 run the main.py file
 
 ## CONTROLS
-Click start after typing in the desired cps
+Click "Enter" after typing in the desired cps
 
 F8 - toggle on/off
